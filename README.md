@@ -21,7 +21,7 @@ A Basic wesite to demonstrate the CRUD (Create, Read, Update and Delete) operati
 
  2. **Open XAMPP Control Panel and start Apache & MySQL server.**
  
- 3. **Go to 'http://localhost/phpmyadmin/' and import the sql file form above.** 
+ 3. **Go to 'http://localhost/phpmyadmin/' and head to SQL, then import the sql file form above.** 
 
  4. **Navigate to the project folder:**
    ```bash
