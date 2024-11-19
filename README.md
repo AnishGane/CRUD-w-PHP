@@ -26,4 +26,5 @@ A Basic wesite to demonstrate the CRUD (Create, Read, Update and Delete) operati
    cd CRUD-w-PHP
    ```
 
-4. **Open the browser and type localhost/CRUD-w-PHP/index.php**
+4. **Open the browser and type 'localhost/CRUD-w-PHP/index.php' in URL**
+
